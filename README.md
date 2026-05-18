@@ -18,7 +18,7 @@ It is designed to be simple, responsive, and user-friendly.
 - Contact section  
 
 ##  Live Demo
-👉 https://yourusername.github.io/portfolio/
+https://github.com/anushkashankar00-hye/Portfolio/settings/pages
 
 ##  Contact
 - Email: anushkashankar00@gmail.com 
